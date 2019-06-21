@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxDateEdit - How to make the time section area responsive
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t545694/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates a simple approach to accessing the responsive time section area of the ASPxDateEdit control.<br>Responsive behavior is implemented via <a href="https://www.w3schools.com/cssref/css3_pr_mediaquery.asp">the CSS @media rule</a>, which allows you to manipulate page elements depending on the screen resolution.</p>
